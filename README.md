@@ -1,9 +1,14 @@
-# 🔁 Problem 01 - Reverse a String
+# 📘 JavaScript Daily Practice
 
-## 📄 Description:
-This JavaScript program takes user input (a string) and prints the reversed version of it.
+Welcome to my JavaScript daily problem-solving journey!  
+Here I solve basic to intermediate JavaScript problems daily.
 
-## 💡 Methods Used:
-- `split("")` → converts string to array of characters
-- `reverse()` → reverses the array
-- `join("")` → joins characters back to string
+## 🔢 List of Questions
+
+| No. | Problem Name         | Folder                          |
+|-----|----------------------|---------------------------------|
+| 01  | Reverse a String     | [01-reverse-string](./01-reverse-string) |
+| 02  | Palindrome Check     | [02-palindrome-check](./02-palindrome-check) |
+| 03  | Sum of Digits        | [03-sum-of-digits](./03-sum-of-digits) |
+| 04  | Factorial (loop)     | [04-factorial-loop](./04-factorial-loop) |
+| 05  | FizzBuzz             | [05-fizzbuzz](./05-fizzbuzz) |
