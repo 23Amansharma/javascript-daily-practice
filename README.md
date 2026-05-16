@@ -1,4 +1,4 @@
-# 📘 JavaScript Daily Practice
+# 📘 JavaScript Practice
 
 Welcome to my JavaScript daily problem-solving journey!  
 Here I solve basic to intermediate JavaScript problems daily.
